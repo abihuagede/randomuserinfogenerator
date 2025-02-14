@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random User Info Generator</title>
+    <style>
+      body {
+        background-color: antiquewhite;
+      }
+      #fetchData {
+        background-color: black;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        display: flex;
+        margin: auto;
+      }
+      #output {
+        margin: auto;
+        background-size: cover;
+        margin-top: 20px;
+        max-width: 1200px;
+        overflow: hidden;
+        padding: 20px;
+        width: 50%;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+      
+      img {
+        width: 100%;
+      }
+      #images {
+        align-items: center;
+        overflow: hidden;
+        max-width: 1200px;
+        width: 100px;
+        background-size: cover;
+        height: 100px;
+        border-radius: 50%;
+        border: 5px solid black;
+        margin: auto;
+      }
+       p{
+        overflow: hidden;
+       }
+      h2 {
+        color: rgb(50, 170, 46);
+        margin: 0%;
+      }
+     
+    </style>
+  </head>
+  <body>
+    <button id="fetchData">Generate Random User Info</button>
+    <div id="output"></div>
+
+    <script src="randominfo.js"></script>
+  </body>
+</html>
