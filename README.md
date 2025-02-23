@@ -13,7 +13,7 @@ Diverse User Profiles: The generator can create a wide range of user profiles, f
 Secure and Privacy-Friendly: All data generated is fictional and randomized, ensuring there is no risk to privacy or security.
 Use Cases:
 
-website u can get your api from https://randomuser.me/
+website u can get your api from https://randomuser.me/ 😉FREE OPEN SOURCE 
 
 Software Development: Use random user data to populate mock databases, test applications, or perform unit tests.
 Data Simulations: Generate profiles for demographic analysis, marketing research, or simulations.
